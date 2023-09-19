@@ -1,0 +1,4 @@
+Dune, Frank Hubert, Sci-Fi, 1,
+Game of Thrones, George R.R. Martin, Fantasy, 1,
+Bible, Unknown, Religion, 1,
+Carrie, Stephen King, Horror, 1
