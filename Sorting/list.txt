@@ -1,0 +1,5 @@
+SpongeBob, 78, Male,
+Patric, 79, Male,
+Mr. Krabs, 100, Male,
+Sandy, 60, Female,
+Squidward, 234, Male
